@@ -1,5 +1,4 @@
 import { useState } from "react";
-import ProductCard from "./api/ProductCard";
 import ProductDetail from "./api/ProductDetails";
 import ProductList from "./api/ProductList";
 import SearchBar from "./api/SearchBar";
